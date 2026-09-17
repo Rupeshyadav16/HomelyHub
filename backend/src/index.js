@@ -42,8 +42,13 @@ app.get("/", (req, res) => {
   res.send("Homely-Hub Backend is running successfully 🚀");
 });
 
-// ✅ Server Setup
+// Start a local server only. Vercel imports the Express app as a serverless
+// function, so it must not keep a port listener running in that environment.
 const port = process.env.PORT || 8080;
-app.listen(port, () => {
-  console.log(`🚀 App running on port: ${port}`);
-});
+if (!process.env.VERCEL) {
+  app.listen(port, () => {
+    console.log(`App running on port: ${port}`);
+  });
+}
+
+export default app;
