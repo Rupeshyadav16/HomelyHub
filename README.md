@@ -162,18 +162,15 @@ npm run dev
 
 <div align="center">
 
-### 🏠 HomelyHub - Your Gateway to Perfect Stays
+### HomelyHub - Your Gateway to Perfect Stays
 
-**Built with ❤ by [Manda Vijaya Sri](https://github.com/vijayasri-manda)**
-
-WSA Project 2025
+**Built with love by Rupesh Yadav**
 
 ---
 
 "Making every journey feel like home"
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijayasri-manda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaya-sri-manda-399a56343/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rupeshyadav16)
 
 </div>
 
